@@ -1,6 +1,8 @@
 # Time Report
 
-> Write about what you have done and how long you have worked on each part of the project.
+> - 2026-03-29 08:00 Worked for 1 hour.
+  - *Started with creating folder for portfolio.*
+  - *Try to make outline related to the wireframe.*
 
 For example: 
 
