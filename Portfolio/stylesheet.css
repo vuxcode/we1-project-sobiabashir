@@ -210,3 +210,73 @@ a {
 .skill-card:hover p {
   color: #ffffff;
 }
+
+/* Education Section */
+.education {
+  padding: 70px 80px;
+}
+
+.education-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.education-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+
+.education-card {
+  background-color: #ffffff;
+  border: 5px solid #c8b89a;
+  padding: 16px 10px;
+  text-align: left;
+}
+
+.edu-date {
+  font-size: 11px;
+  letter-spacing: 1px;
+  color: #c8b89a;
+  margin: 0 0 8px;
+}
+
+.education-card h4 {
+  font-size: 14px;
+  font-weight: bold;
+  color: #1a1a1a;
+  margin: 0 0 6px;
+}
+
+.edu-subject {
+  font-size: 12px;
+  color: #777777;
+  margin: 0 0 4px;
+  line-height: 1.5;
+}
+
+.edu-note {
+  font-size: 12px;
+  color: #777777;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.education-card:hover {
+  background-color: #1a1a1a;
+  border-color: #1a1a1a;
+  transition: all 0.3s ease;
+}
+
+.education-card:hover h4,
+.education-card:hover .edu-date,
+.education-card:hover .edu-subject,
+.education-card:hover .edu-note {
+  color: #ffffff;
+}
+
+
+.edu-center {
+  grid-column: 2;
+}
