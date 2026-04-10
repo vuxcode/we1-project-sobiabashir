@@ -1,7 +1,7 @@
 # Time Report of My project part 1 (Portfolio page)
 
 
-> - 2026-03-29 08:00 to 10:00 Worked for approx. 2 hours.
+> - 2026-03-29 08:00 to 10:00 Worked for approx. 1 hours.
   - *Started with creating folder structure for the portfolio project.*
   - *Studied the wireframe and planned the layout of the page.*
   - *Set up index.html and stylesheet.css files.*
@@ -32,7 +32,11 @@
   - *Confirmed single page structure — all sections in index.html.*
   - *Worked on time report documentation.*
   - *Planning to build Projects and Contact sections next.*
- 
+ > - 2026-04-010 12:00 to 14:00 Worked for approx. 1 hour.
+  - *Reviewed and cleaned up all HTML and CSS code again.*
+  - *Added education section in index.*
+  - *Worked on stylesheet for education section.*
+  - *Planning to build Projects and Contact sections next.*
  
  
 
