@@ -162,6 +162,12 @@ a {
   line-height: 1.8;
   margin: 0 0 10px;
 }
+.about-extra {
+  font-size: 13px;
+  color: #aaaaaa;
+  margin: 10px 0 0;
+  letter-spacing: 0.5px;
+}
 
 /* skills section */
 .skills {
